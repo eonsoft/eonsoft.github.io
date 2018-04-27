@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>动态输入法</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/landing-page.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>    <![endif]-->
+  </head>
+
+<body>
+    <div class="intro-header">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            
+<div class="intro-message">
+              <h1><img src="img/icon.png" alt="" height="80" width="80">&nbsp;
+                动态输入法</h1>
+              <h3>所键即所得&nbsp;&nbsp;动态组字</h3>
+              
+<hr class="intro-divider">
+              <ul class="list-inline intro-social-buttons">
+                <li> <a href="index.html" class="btn btn-default btn-lg"> <span class="network-name">首页</span></a> </li>
+                <li> <a href="usermanualformac.html" class="btn btn-default btn-lg"> <span class="network-name">macOS用户手册</span></a> </li>
+                <li> <a href="help.html" class="btn btn-default btn-lg"> <span class="network-name">帮助</span></a> </li>
+                <li> <i><a href="#privatepolicy" class="btn btn-default btn-lg">
+                    <span class="network-name">隐私政策</span></a></i> </li>
+                <li> <a href="#contact" class="btn btn-default btn-lg"> <span class="network-name">联系作者</span></a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /.intro-header -->
+    <!-- Page Content --> <a name="privatepolicy"></a>
+    <!-- /.sec1 -->
+    <div class="content-section-a">
+      <div class="container">
+        <div class="row">
+          <div>
+            
+<h2 class="section-heading">隐私政策</h2>
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <p class="lead">动态输入法(macOS版)是由苹果认可的开发者(即Apple Developer ID)开发并发布。<br><br>作为一款输入法软件，保护用户的隐私非常重要，为此我们制定了涵盖如何收集、使用以及存储您的信息的隐私政策，如有任何疑问，请访问我们的网站(https://dynatech.applinzi.com)以联系我们。<br>&nbsp;<br>1. 收集何种信息<br>&nbsp;<br>动态输入法 不收集任何涉及个人隐私的信息，例如：用户名、账号、密码、位置等。<br>&nbsp;<br>当您使用 动态输入法 输入汉字时，动态输入法 仅统计动态字频，其目的是为了改善您的输入体验。<br><br>2. 个人信息的保护<br>&nbsp;<br>动态输入法 非常重视你的个人信息的安全，不对任何第三方应用程序开放，也不向任何网络服务器上传任何数据。&nbsp; <br>&nbsp;<br>3. 向第三方披露<br>&nbsp;<br>动态输入法 在任何时候都不对任何第三方批露上述所收集的统计信息。&nbsp; <br>&nbsp;<br>4. 第三方网站和服务<br>&nbsp;<br>动态输入法 软件含有导向在线帮助的链接(https://dynatech.applinzi.com)，除此以外不涉及任何第三方网站、产品和服务的链接。&nbsp; <br>&nbsp;<br>5. 其他<br>&nbsp;<br>如果我们对隐私政策作出更新，我们将在网站(https://dynatech.applinzi.com)上发布通告和经更新的隐私政策。</p>
+          </div>
+        </div>
+      </div>
+      <!-- /.container --> </div>
+    <!-- Page Content --> <a name="privatepolicy"></a>
+    <!-- /.sec1 -->
+    <div class="content-section-b">
+      <div class="container">
+        <div class="row">
+          <div>
+            
+<h2 class="section-heading">用户许可协议</h2>
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <p class="lead">一切本软件用户（以下简称用户）均被视为已经仔细阅读本协议并完全同意，均被视为自愿接受本协议的约束。<br><br>1 本软件（即动态输入法macOS版）为共享软件，用户可以免费下载、任意复制和传播。<br><br>2 本软件未经注册时，您可使用全部功能（部首笔画动态组字）输入最多500个不同汉字，超过500字后您仍可继续无限制输入汉字但功能受限（只有五笔画动态组字）；本软件注册后，将永久解除所有限制。<br><br>3 用户均被视为已经仔细阅读本软件的操作说明，并按照操作说明的方法操作本软件。<br><br>4 用户使用本软件产生的一切文本内容均由该用户提供，本软件不承担任何法律责任。<br><br>5 用户未按照本软件操作说明的方法操作本软件而导致的任何意外、疏忽、合约毁坏、诽谤、版权或其他知识产权侵犯及其所造成的任何损失，本软件不承担任何法律责任。<br><br>6 对于因不可抗力或因黑客攻击、通讯线路中断等本软件不能控制的原因，导致用户不能正常使用本软件，本软件不承担任何法律责任。<br><br>7 本协议未涉及的问题请参见国家有关法律法规，当本协议与国家有关法律法规冲突时，以国家法律法规为准。<br><br>8 本软件相关协议版权及其修改权、更新权和最终解释权均属本软件作者所有。</p>
+          </div>
+        </div>
+      </div>
+      <!-- /.container --> </div> 
+  
+  
+    <!-- /.content-section-a --> <a name="contact"></a>
+    <div class="banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <h2>联系作者</h2>
+          </div>
+          <div class="col-lg-6">
+            <ul class="list-inline banner-social-buttons">
+              <li> <a class="btn btn-default btn-lg" href="https://weibo.com/dongtaishurufa?is_all=1">
+                  <span class="network-name">微博</span></a> </li>
+              <li> <a class="btn btn-default btn-lg"> <span class="network-name">QQ群10819862</span></a> </li>
+              <li> <a class="btn btn-default btn-lg"> <span class="network-name">微信16286200</span></a> </li>
+              <li> <a class="btn btn-default btn-lg" href="https://tieba.baidu.com/f?kw=%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95&amp;ie=utf-8">
+                  <span class="network-name">贴吧</span></a> </li>
+              <li> <a class="btn btn-default btn-lg" href="mailto:dongtaishurufa@163.com">
+                  <span class="network-name">电子邮件</span></a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- /.container --> </div>
+    <!-- /.banner -->
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <p align="center"> 友情链接：<a href="https://www.shurujie.com">输入界</a>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://rime.im">RIME</a>
+            </p>
+          </div>
+          <div class="col-lg-12">
+            <p class="copyright text-muted small" align="center">Copyright ©
+              动态输入法 2013-2017<br>
+              All Rights Reserved</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+</body></html>

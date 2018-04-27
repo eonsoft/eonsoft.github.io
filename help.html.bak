@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+
+
+
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>动态输入法</title></head>
+  <body>
+  
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/landing-page.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>    <![endif]-->
+  
+  
+    <div class="intro-header">
+      <div class="container">
+        <div class="row">
+          
+<div class="col-lg-12">
+            <div class="intro-message">
+              <h1><img src="img/icon.png" alt="" height="80" width="80">&nbsp;
+                动态输入法</h1>
+              <h3>所键即所得&nbsp;&nbsp;动态组字</h3>
+              <hr class="intro-divider">
+              <ul class="list-inline intro-social-buttons">
+                <li> <a href="index.html" class="btn btn-default btn-lg"> <span class="network-name">首页</span></a> </li>
+                <li> <a href="usermanualformac.html" class="btn btn-default btn-lg"> <span class="network-name">macOS用户手册</span></a> </li>
+                <li> <i><a href="help.html" class="btn btn-default btn-lg"> <span class="network-name">帮助</span></a></i> </li>
+                <li> <a href="privatepolicy.html" class="btn btn-default btn-lg">
+                    <span class="network-name">隐私政策</span></a> </li>
+                <li> <a href="#contact" class="btn btn-default btn-lg"> <span class="network-name">联系作者</span></a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+    <ul class="list-inline intro-social-buttons">
+              <li> <a href="#abstract">简介</a> </li>
+              <li> <a href="#features">特点</a> </li>
+              <li> <a href="#strokeref">笔画参考</a></li>
+              <li> <a href="#strokeorderref">笔顺参考</a></li>
+    </ul>
+    </div>
+    <!-- /.intro-header -->
+    <!-- Page Content --> <a name="features"></a>
+    <!-- /.sec1 -->
+    <div class="content-section-a">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-sm-6">
+            <h2 class="section-heading">简介</h2>
+            
+<hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <p class="lead">动态输入法，“动态”是指动态组字，能够象拼写英文单词一样地拼写汉字。它具有两个特点：</p>
+<ol>
+<li>用来＂拼写″汉字的＂字母″是笔画（或部件、部首），可以是传统的5笔画，也可以是经过扩展的12种笔画，常用的部件或部首。</li>
+<li>在使用笔画＂拼写″汉字的过程中，笔画（或部件、部首）自动、动态组合成字，直接上屏，形成类似于书写的视觉反馈。</li></ol>
+<p class="lead"><br>例如，在输入汉字＂落″时，用户依次输入：一丨丨丶丶一丿乛丶，动态输入法将自动组合出：艹氵夂，直观显示出其书写过程。您也可以使用笔画或部件、部首的任意的形式来输入，例如输入“操”字，只需要输入“扌口口口木”就可以了！</p>
+          </div>
+          <div class="col-lg-5 col-lg-offset-2 col-sm-6"> <img class="img-responsive" src="img/12strokes.jpg" alt="">
+          </div>
+        </div>
+      </div>
+    <a name="features"></a>
+    <div class="content-section-b">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+            <h2 class="section-heading">特点</h2>
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <p class="lead">当然，单纯使用笔画输入汉字，打字速度提升空间有限，因此动态输入法提供了以下多种提高速度的功能：<br>&nbsp;<br>1 部件和笔画混合输入</p>
+<ol>
+<li>动态输入法支持多达40多种部首快捷按键，并且实现了笔画和部首（或部件）的混合输入，并且动态组字上屏。例如，输入“操”字，只需要输入“扌口口口木”就可以了！</li>
+<li>同时，还支持部首（或部件）的模糊输入，一个部首（或部件）同时匹配多种可能，例如，输入“火”也可以匹配“灬”，输入“木”也可以匹配“朩”，输入“西”也可以匹配（覀），“车”、“鹿”、“牛”等部首，匹配其所有笔画笔顺。</li></ol>
+<p class="lead">&nbsp;<br>2 快捷键<br>当输入快捷键时，高频常用字将出现在候选字列表最左侧，此时再按回车或空格可确认输入。例如，“是”的快捷键为“丨”，“的”的快捷键为“丿”，等等。<br>&nbsp;<br>3 重复符号<br>按照汉字书写的传统，当输入“?”时，可重复输入位于插入光标左侧的字符。例如，在“红彤”的右侧输入“丶丶”，“彤”字将出现在候选字列表最左侧，此时再按回车或空格可确认输入。<br>&nbsp;<br>4 通配符</p>
+<ol>
+<li>*通配：当汉字笔画较多时，可使用*通配符号代替除首尾笔画之外的中间的任意一段连续笔画，来减少按键次数。例如，“算”可以省略为“*廾”。</li>
+<li>？通配：当不确定某个笔画对应哪个笔画按键时，可使用？通配符号代替1个未知的笔画。</li></ol>
+<p class="lead">&nbsp;<br>5 手气不错<br>如果您对汉字笔画及其常用程度较为熟悉，可在凭经验判断所输入笔划已经足够确定目标汉字时，直接按回车或空格确认输入。例如，输入“丨”再按回车或空格可输入“着”，输入“厶冂”按回车或空格可输入“能”。<br>&nbsp;<br>6 词语预测<br>本输入法将根据插入点之前的汉字预测下一个将要输入的汉字。<br>&nbsp;<br>7 分词<br>使用“分‘词”键，能够快捷地输入词组，词组中每个汉字，只需要输入前几个笔画，并使用分词符号'分隔，本输入法即可寻找到匹配的词组。例如，输入 阝'扌'亻，即可匹配 阿拉伯，输入 爫'忄，即可匹配 爱情，等等。</p></div>
+          <div class="col-lg-5 col-sm-pull-6  col-sm-6"> <img class="img-responsive" src="img/StroComp4iOS.gif" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+      <!-- /.container --> 
+    <a name="strokeref"></a>
+    <div class="content-section-b">
+      <div class="container">
+        <div class="row">
+          <div>
+            <h2 class="section-heading">笔画参考</h2>
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <p class="lead">动态输入法支持5笔画和12笔画，5笔画符合通常的定义，12笔画是对5笔画的扩充，能够减少汉字的重码，提高输入的速度，并且让动态组字更加精确和生动。</p>
+<div style="text-align: center;"><img title="12Strokes" alt="12Strokes" src="img/12StrokesShowBoard_v2.jpg"></div>
+          </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.container --> 
+    <!-- /.sec3 --> <a name="strokeorderref"></a>
+    <div class="content-section-a">
+      <div class="container">
+        <div class="row">
+          <div>
+            <h2 class="section-heading">笔顺参考</h2>
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <p class="lead">动态输入法的笔顺符合国家标准规范：<br>- 现代汉语通用字笔顺规范<br>- GF3002-1999 GB13000.1字符集汉字笔顺规范</p>
+<div style="text-align: center;"><img title="StrokeOrder" alt="StrokeOrder" src="img/StrokesOrderShowBoard_v2.jpg"></div>
+          </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.container --> 
+    <!-- /.content-section-a --> <a name="contact"></a>
+    <div class="banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <h2>联系作者</h2>
+          </div>
+          <div class="col-lg-6">
+            <ul class="list-inline banner-social-buttons">
+              <li> <a class="btn btn-default btn-lg" href="https://weibo.com/dongtaishurufa?is_all=1">
+                  <span class="network-name">微博</span></a> </li>
+              <li> <a class="btn btn-default btn-lg"> <span class="network-name">QQ群10819862</span></a> </li>
+              <li> <a class="btn btn-default btn-lg"> <span class="network-name">微信16286200</span></a> </li>
+              <li> <a class="btn btn-default btn-lg" href="https://tieba.baidu.com/f?kw=%E5%8A%A8%E6%80%81%E8%BE%93%E5%85%A5%E6%B3%95&amp;ie=utf-8">
+                  <span class="network-name">贴吧</span></a> </li>
+              <li> <a class="btn btn-default btn-lg" href="mailto:dongtaishurufa@163.com">
+                  <span class="network-name">电子邮件</span></a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- /.container --> </div>
+    <!-- /.banner -->
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <p align="center"> 友情链接：<a href="https://www.shurujie.com">输入界</a>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://rime.im">RIME</a>
+            </p>
+          </div>
+          <div class="col-lg-12">
+            <p class="copyright text-muted small" align="center">Copyright ©
+              动态输入法 2013-2017<br>
+              All Rights Reserved</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+</div></body></html>
